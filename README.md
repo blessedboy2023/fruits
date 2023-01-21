@@ -12,7 +12,7 @@
 <h3>
   Watermelon
 </h3>
-<img src="images\watermelon.GIF" width="250" height="250">
+<img src="images/watermelon.gif" width="250" height="250">
 
 <ul>
   <li>
@@ -28,7 +28,7 @@
 <h3>
   Mango
 </h3>
-<img src="images\mango.GIF" width="250" height="250">
+<img src="images/mango.gif" width="250" height="250">
 
 <ul>
   <li>
@@ -44,7 +44,7 @@
 <h3>
   Pinapples
 </h3>
-<img src="images\pineapple.GIF" width="250" height="250">
+<img src="images/pineapple.gif" width="250" height="250">
 <ol>
   <li>Helps kill deseases</li>
   <li>
