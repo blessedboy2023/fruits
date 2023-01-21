@@ -44,7 +44,7 @@
 <h3>
   Pinapples
 </h3>
-<img src="pipineapple.gif" width="250" height="250">
+<img src="pineapple.gif" width="250" height="250">
 <ol>
   <li>Helps kill deseases</li>
   <li>
