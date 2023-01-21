@@ -28,7 +28,7 @@
 <h3>
   Mango
 </h3>
-<img src="images/mango.gif" width="250" height="250">
+<img src="mango.gif" width="250" height="250">
 
 <ul>
   <li>
@@ -44,7 +44,7 @@
 <h3>
   Pinapples
 </h3>
-<img src="ipineapple.gif" width="250" height="250">
+<img src="pipineapple.gif" width="250" height="250">
 <ol>
   <li>Helps kill deseases</li>
   <li>
