@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Fruits</title>
 </head>
-<body>
+<body style="background-color: #FFD54D">
 <h1>
   Here are some fruit benifits!
 </h1>
@@ -12,7 +12,7 @@
 <h3>
   Watermelon
 </h3>
-<img src="C:\Users\Emmanuel\Desktop\python_codes\HTmL\images\watermelon.GIF" width="250" height="250">
+<img src="images\watermelon.GIF" width="250" height="250">
 
 <ul>
   <li>
@@ -28,7 +28,7 @@
 <h3>
   Mango
 </h3>
-<img src="C:\Users\Emmanuel\Desktop\python_codes\HTmL\images\mango.GIF" width="250" height="250">
+<img src="images\mango.GIF" width="250" height="250">
 
 <ul>
   <li>
@@ -44,7 +44,7 @@
 <h3>
   Pinapples
 </h3>
-<img src="C:\Users\Emmanuel\Desktop\python_codes\HTmL\images\pineapple.GIF" width="250" height="250">
+<img src="images\pineapple.GIF" width="250" height="250">
 <ol>
   <li>Helps kill deseases</li>
   <li>
